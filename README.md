@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Introducing Hokage OS
+![banner](https://github.com/user-attachments/assets/8f3cc4dc-c12f-42b2-a40f-59889fb472f8)
 
-## Getting Started
+Hokage os is a simple os where you can change the way you look at your old and boring home page no really it has the following features 
 
-First, run the development server:
+PS: I think I should not call it an OS after all it’s just a Chrome extension 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 📁 add folders
+- 📄 add files
+- 🔴 add important links
+- 🏆 motivation quote on the home page
+- 📷 cool anime video in the background
+- ☎️ retro style effect throughout the design
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## The magic of this os is it’s fully customizable, you can pretty much change anything you want through code
+if you're going to see the whole video please check the link below
+*COMING SOON …*
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### That’s it in the end if you wanna change something or want me add something you [hit me up on twitter](https://x.com/Shrit1401)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+also, did you know I write a newsletter hawwwww, [check it out here](https://shrit.in/newsletter)
