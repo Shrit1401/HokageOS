@@ -14,7 +14,7 @@ PS: I think I should not call it an OS after all it’s just a Chrome extension
 
 ## The magic of this os is it’s fully customizable, you can pretty much change anything you want through code
 if you're going to see the whole video please check the link below
-*COMING SOON …*
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2jZE0fQ-Sj0/0.jpg)](http://www.youtube.com/watch?v=2jZE0fQ-Sj0)
 
 ### That’s it in the end if you wanna change something or want me add something you [hit me up on twitter](https://x.com/Shrit1401)
 
